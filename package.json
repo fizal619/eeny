@@ -1,0 +1,24 @@
+{
+  "name": "eeny",
+  "version": "0.0.1",
+  "description": "Adds a array method to the base prototype that returns a random element.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fizal619/eeny.git"
+  },
+  "keywords": [
+    "random",
+    "element",
+    "array"
+  ],
+  "author": "fizal619",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fizal619/eeny/issues"
+  },
+  "homepage": "https://github.com/fizal619/eeny#readme"
+}
